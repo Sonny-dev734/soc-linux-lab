@@ -1,0 +1,8 @@
+{
+    "avg_connections": 7.176470588235294,
+    "avg_listening_ports": 3.0,
+    "process_frequency": {
+        "Isolated": 10,
+        "ps": 24
+    }
+}
